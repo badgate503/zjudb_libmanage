@@ -1,4 +1,6 @@
-## Ljx 的图书管理系统
+## Book Managing System based on vue.js and java
+
+### ZJU Database System Lab 05
 
 ### 环境要求
 - JDK 1.8.0及以上，可通过`java -version`命令查看
